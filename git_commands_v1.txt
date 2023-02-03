@@ -4,3 +4,5 @@
 4. git commit -m "commit message"
 5. git push
 git reset HEAD <File-name>
+7. git show HEAD
+8. git reset commit_SHA
